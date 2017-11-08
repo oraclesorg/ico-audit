@@ -1,3 +1,4 @@
 [submodule "oracles-zeppelin"]
 	path = oracles-zeppelin
 	url = https://github.com/oraclesorg/zeppelin-solidity
+	branch = master
